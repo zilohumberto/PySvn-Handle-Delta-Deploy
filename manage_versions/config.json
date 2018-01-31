@@ -1,0 +1,14 @@
+[{
+    "id": 0, 
+    "name": "No used name yet", 
+    "source_server": "https://serverSVN:PORT/Project1", 
+    "source_local": "C:\\Project1", 
+    "destination": "C:\\PySvnToDeploy\\versions\\Project1", 
+    "last_revision": 0
+}, {
+    "id": 1, "name": "No used name yet", 
+    "source_server": "https://serverSVN:PORT/Project2", 
+    "source_local": "C:\\Project2", 
+    "destination": "C:\\PySvnToDeploy\\versions\\Project2", 
+    "last_revision": 0
+}]
